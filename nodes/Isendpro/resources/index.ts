@@ -1,0 +1,12 @@
+export { campagneDescription } from './campagne';
+export { comptageDescription } from './comptage';
+export { creditDescription } from './credit';
+export { delListeNoireDescription } from './del-liste-noire';
+export { getListeNoireDescription } from './get-liste-noire';
+export { hlrDescription } from './hlr';
+export { repertoireDescription } from './repertoire';
+export { setListeNoireDescription } from './set-liste-noire';
+export { addShortlinkDescription } from './add-shortlink';
+export { smsDescription } from './sms';
+export { addSubaccountDescription } from './add-subaccount';
+export { editSubaccountDescription } from './edit-subaccount';
